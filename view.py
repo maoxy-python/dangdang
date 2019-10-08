@@ -22,4 +22,5 @@ def demo(request):
 def demo2(request):
 
     print("hello GIT")
+    print("999999")
 
