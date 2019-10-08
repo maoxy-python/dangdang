@@ -15,4 +15,11 @@ def car(request):
 def demo(request):
 
     print("123")
+    print("11111")
+    print("11111")
+    print("11111")
+
+def demo2(request):
+
+    pass
 
