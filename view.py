@@ -21,5 +21,5 @@ def demo(request):
 
 def demo2(request):
 
-    pass
+    print("hello GIT")
 
