@@ -10,3 +10,9 @@ def car(request):
         cart = C()
         cart.add_car(bookid)
         request.Session['cart']=cart
+
+
+def demo(request):
+
+    print("123")
+
